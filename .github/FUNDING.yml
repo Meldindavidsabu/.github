@@ -3,4 +3,4 @@
 github: Meldindavidsabu  
 custom: 
   - 'https://github.com/sponsors/Meldindavidsabu'  # GitHub Sponsors link (Stripe)
-  - 'upi://pay?pa=meldin.davidsabu@oksbi'  # Google Pay UPI link
+  - 'upi://pay?pa=meldin.davidsabu@oksbi&pn=Meldin%20DavidSabu&cu=INR'  # Google Pay UPI link
